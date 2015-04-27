@@ -1,0 +1,25 @@
+{
+  "name": "animate-transition",
+  "version": "0.0.1",
+  "homepage": "http://rapid-application-development-js.github.io/AnimateTransition/",
+  "authors": [
+    "Yuriy Luchaninov <y.luchaninov@mobidev.biz> (http://mobidev.biz/)"
+  ],
+  "description": "Library for transition animations between blocks (pages) in the application",
+  "main": "animateTransition.js",
+  "keywords": [
+    "\"RAD.js\"",
+    "\"mobile\"",
+    "\"javascript\"",
+    "\"RAD\"",
+    "\"animation\""
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
